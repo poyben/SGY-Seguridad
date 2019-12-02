@@ -1,4 +1,4 @@
-## **Copias de seguridad cifradas con DUPLICATI**
+# **Copias de seguridad cifradas con DUPLICATI**
 
 # **Enunciado**
 
